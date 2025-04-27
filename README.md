@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
     </div>
     <div>
-      <h2 style="font-size: 1.5em; color: #333;">:압정: 참여 프로젝트: Univora</h2>
+      <h2 style="font-size: 1.5em; color: #333;">📌 참여 프로젝트: Univora</h2>
       <ul style="font-size: 1em; line-height: 1.8; color: #333;">
         <li><strong>웹소켓 알림 기능</strong> 구현</li>
         <li><strong>강의 스케줄 (달력)</strong> 기능 구현</li>
@@ -39,7 +39,7 @@
   <!-- 두 번째 프로필 -->
   <div style="width: 45%; text-align: left; padding-left: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
-      <strong>:별2: Profile 2: SK_Dev :별2:</strong>
+      <strong>🌟 Profile 1: omh_dev 🌟</strong>
     </h1>
     <div style="text-align: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/omh1004/univora/dev/src/main/webapp/resources/images/sulgi.png" alt="Coding Character" width="200" />
