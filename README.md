@@ -2,7 +2,7 @@
   <!-- 첫 번째 프로필 -->
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
-      <strong>:별2: Profile 1: omh_dev :별2:</strong>
+      <strong>🌟 Profile 1: omh_dev 🌟</strong>
     </h1>
     <div style="text-align: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/omh1004/univora/dev/src/main/webapp/resources/images/omh_dev.png" alt="Coding Character" width="200" />
@@ -86,7 +86,7 @@
    
   </div>
     <div>
-      <h2 style="font-size: 1.5em; color: #333;">:압정: 참여 프로젝트: Univora</h2>
+      <h2 style="font-size: 1.5em; color: #333;">📌 참여 프로젝트: Univora</h2>
       <ul style="font-size: 1em; line-height: 1.8; color: #333;">
         <li><strong>수강평 (CRUD)</strong>, <strong>수강평 답글 (CRUD)</strong>, <strong>하트(좋아요)</strong>, <strong>권한 설정</strong></li>
         <li><strong>마이페이지</strong> (내 학습, 작성한 수강평, 구매내역, 내 프로필 설정 변경)</li>
